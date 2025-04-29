@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vivek2437
-- 👀 I’m interested in .lARTIFICIAL INTELIGENCE AND MACHINE LEARNING TECH STACK..
+- 👀 I’m interested in ARTIFICIAL INTELIGENCE AND MACHINE LEARNING TECH STACK..
 - 🌱 I’m currently learning Python,C++ WITH OOPS AND DSA
 - 💞️ I’m looking to collaborate on GITHUB
 <!---
