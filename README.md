@@ -1,12 +1,52 @@
-# 💫 About Me:
-# 💫 Nayi Vivek | 1st Year CSE Student | Anime Lover × Developer<br><br>Hey there! I'm **Nayi Vivek** — a passionate CSE student on a quest to master DSA and become a full-stack ninja 🥷  <br>When I'm not coding, you'll find me watching anime or solving problems on LeetCode 🧠⚔️<br><br>## 🧠 Skills<br>- 🔹 C | C++ | Python<br>- 🔹 Object-Oriented Programming (OOP)<br>- 🔹 Data Structures & Algorithms (Easy level... for now 👊)<br>- 🔹 Git & GitHub (version-controlling my destiny)<br><br>## 🎯 Currently Leveling Up In<br>- Mastering DSA (like Luffy unlocking Gear 5)<br>- LeetCode Daily Challenges<br>- Learning from anime-style grind<br><br>## 💻 Platforms<br>- 🔗 [LeetCode Profile](#) https://leetcode.com/u/041iZt7u01/<br>- 🔗 [Geeks For Geeks](#) https://www.geeksforgeeks.org/user/super_saiyan_goku/?_gl=1*1j8wiyg*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjwrPHABhCIARIsAFW2XBMgbQW1FWKtQIdC2nK3kBxXSfzQKbcC9LXj2YuUemO1ueGgouEF_4aAhibEALw_wcB&gbraid=0AAAAAC9yBkC3u7KioMwIhG1Yr59OBTQFg<br><br>## 📺 Fun Facts<br>- Huge Anime Buff: One Piece | Bleach | DBS | Blue Lock | Solo Leveling 🌀<br>-<br>- Chess player (defeated Stockfish Level 3 like a boss 👑)<br><br>## 📬 Let's Connect<br>- Email:nayivivek212@gmail.com<br>- LinkedIn:Vivek Nayi<br><br>---<br><br>> _"Power comes in response to a need, not a desire."_ – Goku<br><br>Thanks for visiting! ⭐ my repos and join me on this journey from beginner to legendary developer.<br>
+# 👋 Hi, I’m Vivek Nayi
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![AWS Elastic Beanstalk](https://img.shields.io/badge/AWS%20Beanstalk-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vivek Nayi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nayivivek212@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+## 🚀 About Me
+
+> **B.Tech Student | AI/ML Enthusiast | Kaggle Competitor | Python Developer**  
+> Anand, Gujarat, India  
+> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/viveknayi-98412a314)  
+> 📧 nayivivek212@gmail.com
+
+---
+
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+---
+
+## 🧠 What I Do
+
+- 💡 Currently learning **Deep Learning, OpenCV, LLMs, and Agentic AI**
+- 🏆 Participating in Kaggle competitions
+- 🛠️ Building projects using **Python, Scikit-Learn, Pandas**
+- 🤖 Passionate about solving real-world problems with AI
+- 🌐 Working with **Git & GitHub** for version control and collaboration
+- 🚀 Deploying apps using **Render, Netlify, and AWS Elastic Beanstalk**
+
+---
+
+## 🌟 Top Skills
+
+- 🐍 Python
+- 📊 Pandas
+- ⚙️ Scikit-Learn
+- 🤖 Machine Learning
+- 🌱 Git & GitHub
+- ☁️ Render, Netlify, AWS Elastic Beanstalk
+
+---
+
+![Footer Animation](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vivek2437&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vivek2437&theme=dark&hide_border=false)<br/>
