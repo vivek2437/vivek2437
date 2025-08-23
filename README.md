@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Vivek Nayi
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-Hem%20Ajit%20Patel-20BEFF?logo=kaggle)](https://www.kaggle.com/viveknayi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hem%20Patel-0A66C2?logo=linkedin)](https://www.linkedin.com/in/vivek-nayi-98412a314/)
-[![Followers](https://img.shields.io/github/followers/hemathens?label=Follow&style=social)](https://github.com/vivek2437)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Vivek%20Nayi-20BEFF?logo=kaggle)](https://www.kaggle.com/viveknayi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vivek%20Nayi-0A66C2?logo=linkedin)](https://www.linkedin.com/in/vivek-nayi-98412a314/)
+[![Followers](https://img.shields.io/github/followers/vivek2437?label=Follow&style=social)](https://github.com/vivek2437)
 ![Profile views](https://komarev.com/ghpvc/?username=vivek2437)
 
 ## 🚀 About Me
