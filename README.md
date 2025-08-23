@@ -1,5 +1,15 @@
 # 👋 Hi, I’m Vivek Nayi
 
+[![Kaggle](https://img.shields.io/badge/Kaggle-Hem%20Ajit%20Patel-20BEFF?logo=kaggle)](https://www.kaggle.com/viveknayi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hem%20Patel-0A66C2?logo=linkedin)](https://www.linkedin.com/in/vivek-nayi-98412a314/)
+[![Followers](https://img.shields.io/github/followers/hemathens?label=Follow&style=social)](https://github.com/vivek2437)
+![Profile views](https://komarev.com/ghpvc/?username=vivek2437)
+
+## 🚀 About Me
+
+> **B.Tech Student | AI/ML Enthusiast | Kaggle Competitor | Python Developer**  
+> Anand, Gujarat, India  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
@@ -11,19 +21,6 @@
 
 ---
 
-## 🚀 About Me
-
-> **B.Tech Student | AI/ML Enthusiast | Kaggle Competitor | Python Developer**  
-> Anand, Gujarat, India  
-> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/viveknayi-98412a314)  
-> 📧 nayivivek212@gmail.com
-
----
-
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
----
-
 ## 🧠 What I Do
 
 - 💡 Currently learning **Deep Learning, OpenCV, LLMs, and Agentic AI**
@@ -32,6 +29,10 @@
 - 🤖 Passionate about solving real-world problems with AI
 - 🌐 Working with **Git & GitHub** for version control and collaboration
 - 🚀 Deploying apps using **Render, Netlify, and AWS Elastic Beanstalk**
+
+---
+
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
