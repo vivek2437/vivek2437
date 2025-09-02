@@ -47,6 +47,8 @@
 
 ---
 
+![trophy](https://github-profile-trophy.vercel.app/?username=vivek2437)
+
 ![Footer Animation](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vivek2437&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
