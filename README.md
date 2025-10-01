@@ -21,6 +21,7 @@
 ![Tensorflow](https://img.shields.io/badge/TensorFlow%20-009688?style=for-the-badge&logo=tensorflow&logoColor=orange)
 ![Pytorch](https://img.shields.io/badge/Pytorch%20-009688?style=for-the-badge&logo=pytorch&logoColor=red)
 ![Keras](https://img.shields.io/badge/Keras%20-009688?style=for-the-badge&logo=keras&logoColor=red)
+![Streamlit](https://img.shields.io/badge/Streamlit%20-009688?style=for-the-badge&logo=streamlit&logoColor=black)
 
 
 ---
