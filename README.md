@@ -10,7 +10,6 @@
 > **B.Tech Student | AI/ML Enthusiast | Kaggle Competitor | Python Developer**  
 > Anand, Gujarat, India  
 
-![C++](https://img.shields.io/badge/C++%20-009688?style=for-the-badge&logo=c++&logoColor=green)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
