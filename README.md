@@ -18,7 +18,7 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![AWS Elastic Beanstalk](https://img.shields.io/badge/AWS%20Beanstalk-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/TensorFlow%20Keras-009688?style=for-the-badge&logo=keras&logoColor=red)
+![Deep Learning](https://img.shields.io/badge/TensorFlow%20-009688?style=for-the-badge&logo=tensorflow&logoColor=orange)
 
 ---
 
