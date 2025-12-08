@@ -53,7 +53,7 @@
 
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivek2437&show_icons=true&count_private=true&theme=radical)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=vivek2437)
+![trophy](https://github-profile-trophy.vercel.app/?username=vivek2437&theme=onestar)
 
 ![Vivek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vivek2437&theme=radical)
 
