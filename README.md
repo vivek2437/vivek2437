@@ -50,9 +50,7 @@
 
 
 ## 🏆 GitHub Status
-
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivek2437)
-
+[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivek2437)](https://github.com/vivek2437/github-readme-stats)
 
 
 ![Vivek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vivek2437&theme=radical)
