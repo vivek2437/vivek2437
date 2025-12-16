@@ -10,7 +10,7 @@ Hi, I’m Vivek Nayi<br><br> <br>passionate about AI, machine learning, and back
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vivek2437&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vivek2437&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JINO-ROHIT&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek2437&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
