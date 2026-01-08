@@ -9,8 +9,10 @@ Hi, I’m Vivek Nayi<br><br> <br>passionate about AI, machine learning, and back
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vivek2437&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vivek2437&theme=dark&hide_border=false)<br/>
+![Vivek's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=vivek2437&show_icons=true&count_private=true&theme=radical)
+
+[![trophy](https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=vivek2437&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek2437&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
